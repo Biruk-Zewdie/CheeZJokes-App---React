@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CheeZJokes-App---React/static/css/main.ee0bb53c.css",
+    "main.js": "/CheeZJokes-App---React/static/js/main.2ca75680.js",
+    "static/js/453.ed73d590.chunk.js": "/CheeZJokes-App---React/static/js/453.ed73d590.chunk.js",
+    "index.html": "/CheeZJokes-App---React/index.html",
+    "main.ee0bb53c.css.map": "/CheeZJokes-App---React/static/css/main.ee0bb53c.css.map",
+    "main.2ca75680.js.map": "/CheeZJokes-App---React/static/js/main.2ca75680.js.map",
+    "453.ed73d590.chunk.js.map": "/CheeZJokes-App---React/static/js/453.ed73d590.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee0bb53c.css",
+    "static/js/main.2ca75680.js"
+  ]
+}
